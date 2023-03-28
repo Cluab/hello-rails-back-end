@@ -30,7 +30,7 @@ The Hello(API) App was built with:
 - Ruby On Rails
 - PostgreSQL
 
-### Front-End repo
+### Front-End Repo
 
 - [hello-react-front-end](https://github.com/Cluab/hello-react-front-end)
 
