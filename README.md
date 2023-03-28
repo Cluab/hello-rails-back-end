@@ -30,6 +30,10 @@ The Hello(API) App was built with:
 - Ruby On Rails
 - PostgreSQL
 
+### Front-End repo
+
+- [hello-react-front-end](https://github.com/Cluab/hello-react-front-end)
+
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
@@ -46,7 +50,7 @@ To run this project, you'll need to install:
 
 1. Clone this repository to your desired folder:
 
-`git clone git@github.com:Cluab/hello-rails-react.git`
+`git clone git@github.com:Cluab/hello-rails-back-end.git`
 
 `cd hello-rails-react`
 
